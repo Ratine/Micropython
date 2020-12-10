@@ -1,2 +1,2 @@
 # Micropython
-这是一个Micropython学习和分享的地方
+这是博主学习Micropython的心路历程
